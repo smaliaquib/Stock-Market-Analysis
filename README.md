@@ -49,7 +49,6 @@ If you are new to Python,[This YouTube series](https://www.youtube.com/playlist?
  1. **Select an Industry:** 
  2. In this directory, you'll be able to browse through the different industries. You can choose an industry which is related to your discipline or any industry of your liking. 
  3. On doing so, download a CSV file of stock data of a company belonging to the industry you chose. I have chosen Infosys Stock from Large-cap.
- 4. To know more about this large-cap, mid-cap and small-cap data go to [`Readme_all_stock_data.md`](https://github.com/SBZed/Stock-Market-Analysis/blob/master/README_all_stock_information.md) file.
  
 ## Modules Structure:
     .
