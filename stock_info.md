@@ -1,7 +1,7 @@
-For module 2 onwards, we need to access the data of various other stocks, index, and commodities. All data are available at the [`All Stock Data`](https://github.com/SBZed/Stock-Market-Analysis/tree/master/All%20Stock%20Data) Directory.
+For module 2 onwards, we need to access the data of various other stocks, index, and commodities.
 
 # Stocks
-Each Cap has 25 stocks which available in [`All Stock Data Zipped`](https://github.com/SBZed/Stock-Market-Analysis/tree/master/All%20Stock%20Data%20Zipped) directory.
+Each Cap has 25 stocks which available.
 
 ### 1. Small-Cap
 Small-cap is a term used to classify companies with a relatively small market capitalization. A company's market capitalization is the market value of its outstanding shares. In India, normally a company below market capitalization of Rs.5000 crores is classified as a small-cap company. One can expect relatively high volatility in Small-Cap companies.
